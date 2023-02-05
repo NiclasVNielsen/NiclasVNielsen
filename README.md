@@ -47,6 +47,9 @@
       <br>
       <p align="center">
         <br>
+        <div align="center">
+          <img src="https://media2.giphy.com/media/lOxulgieOO9BiReM8y/giphy.gif?cid=790b7611390ddd0e9f8ae4cc90e917ced2527fcc56e29efe&rid=giphy.gif&ct=g" align="right">
+        </div>
         <p><b>I'm very familiar with</b></p>
         <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -68,18 +71,24 @@
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=222222&logo=Unity&logoColor=FFFFFF&label="/>
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=C+Sharp&color=239120&logo=C+Sharp&logoColor=FFFFFF&label="/>
         <br><br>
-      <br>
-      <h2 align="center">
-        Where do i find this privateer?
-      </h2>
-      <div align="center">
-        <!-- <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px"> -->
-      </div>
-      <br>
-      <p align="center">
-        Here are some of my<br>
-        most used cross sea commuicators
-      </p>
+        <br>
+        <h2 align="center">
+          Where do i find this privateer?
+        </h2>
+        <div align="center">
+          <!-- <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px"> -->
+        </div>
+        <br>
+        <p align="center">
+          <b>Here are some of my<br>
+            most used cross sea commuication methods</b>
+        </p>
+        <div align="center">
+          <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label="/>
+          <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label="/>
+          <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label="/>
+          <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label="/>
+        </div>
       <!-- <p align="center"><a href="https://twitter.com/PoolPartyAkali" target="_blank"><img src="https://img.shields.io/badge/PwoolPwatyAkwali%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/cozythighs" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p> -->
     </div>
     <br>
@@ -88,7 +97,6 @@
       <div align="center">
         <!-- <img src="https://i.imgur.com/tzYKRfd.gif"> -->
       </div>
-      <hr>
     </div>
     </center>
 </body>
