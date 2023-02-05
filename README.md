@@ -75,9 +75,6 @@
         <h2 align="center">
           Where do i find this privateer?
         </h2>
-        <div align="center">
-          <!-- <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px"> -->
-        </div>
         <br>
         <p align="center">
           <b>Here are some of my<br>
@@ -93,14 +90,10 @@
           <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label="/>
           <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label="/>
         </div>
-      <!-- <p align="center"><a href="https://twitter.com/PoolPartyAkali" target="_blank"><img src="https://img.shields.io/badge/PwoolPwatyAkwali%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/cozythighs" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p> -->
     </div>
     <br>
     <div>
       <h2 align="center">Aaargh!</h2>
-      <div align="center">
-        <!-- <img src="https://i.imgur.com/tzYKRfd.gif"> -->
-      </div>
     </div>
     </center>
 </body>
