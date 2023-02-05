@@ -6,7 +6,7 @@
         <font size="2">Welcome aboard deck!</font>
       </h3>
       <br>
-      <p>
+      <p align="center">
         Add short bio here!
       </p>
       <div>
