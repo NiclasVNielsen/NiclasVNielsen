@@ -12,6 +12,12 @@
         <div align="center">
           <img src="https://media1.giphy.com/media/lMg0qBGvh0Hu0AMLj4/giphy.gif?cid=790b7611c6129cad063b7a773cd9411c68772f4bdc5e2f7c&rid=giphy.gif&ct=g" align="right">
         </div>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
         <li>
           <b>Name:</b> Niclas :3
         </li>
@@ -27,6 +33,9 @@
         <li>
           <b>Loves:</b> Heavy Metal🤘, Yu-Gi-Oh!🃏, Bunnies🐇
         </li>
+        <br>
+        <br>
+        <br>
         <br>
         <br>
         <br>
