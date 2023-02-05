@@ -47,7 +47,7 @@
       <br>
       <p align="center">
         <br>
-        <p>I'm very familiar with</p>
+        <p><b>I'm very familiar with</b></p>
         <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=CC6699&logo=Sass&logoColor=FFFFFF&label="/><br>
@@ -64,7 +64,7 @@
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label="/>
         <br>
         <br>
-        <p>I would love to get better at</p>
+        <p><b>I would love to get better at</b></p>
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=222222&logo=Unity&logoColor=FFFFFF&label="/>
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=C+Sharp&color=239120&logo=C+Sharp&logoColor=FFFFFF&label="/>
         <br><br>
