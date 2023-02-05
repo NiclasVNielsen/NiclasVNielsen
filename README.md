@@ -10,7 +10,7 @@
           Who is this weirdo?
         </h2>
         <div align="center">
-          <img src="https://giphy.com/embed/lMg0qBGvh0Hu0AMLj4" width="100"/>
+          <div style="width:100%;height:0;padding-bottom:84%;position:relative;"><iframe src="https://giphy.com/embed/lMg0qBGvh0Hu0AMLj4" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pirate-redbeard-lMg0qBGvh0Hu0AMLj4">via GIPHY</a></p>
         </div>
         <li>
           <b>Name:</b> Niclas :3
