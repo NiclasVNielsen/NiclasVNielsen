@@ -1,34 +1,36 @@
 <body>
   <center>
-    <h1 align="center">
-      Ahoy Lad/Lass! 🏴‍☠️
-    </h1>
-    <br>
     <div>
-      <h2 align="center">
-        Who is this weirdo?
-      </h2>
-      <div align="center">
-        <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+      <h1 align="center">
+        Ahoy Lad/Lass! 🏴‍☠️
+      </h1>
+      <br>
+      <div>
+        <h2 align="center">
+          Who is this weirdo?
+        </h2>
+        <div align="center">
+          <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+        </div>
+        <li>
+          <b>Name:</b> Niclas :3
+        </li>
+        <li>
+          <b>Gender:</b> Male ♂️
+        </li>
+        <li>
+          <b>Occupation:</b> Bachelor in Web Development🤓
+        </li>
+        <li>
+          <b>Hobbys:</b> Video/Board Games🕹️, Playing Guitar🎸, Being a Pirate🦜
+        </li>
+        <li>
+          <b>Loves:</b> Heavy Metal🤘, Yu-Gi-Oh!🃏, Bunnies🐇
+        </li>
+        <br>
+        <br>
+        <br>
       </div>
-      <li>
-        <b>Name:</b> Niclas :3
-      </li>
-      <li>
-        <b>Gender:</b> Male ♂️
-      </li>
-      <li>
-        <b>Occupation:</b> Bachelor in Web Development🤓
-      </li>
-      <li>
-        <b>Hobbys:</b> Video/Board Games🕹️, Playing Guitar🎸, Being a Pirate🦜
-      </li>
-      <li>
-        <b>Loves:</b> Heavy Metal🤘, Yu-Gi-Oh!🃏, Bunnies🐇
-      </li>
-    <br>
-    <br>
-    <br>
     </div>
     <div>
       <h2 align="center">
