@@ -10,7 +10,7 @@
           Who is this weirdo?
         </h2>
         <div align="center">
-          <img src="https://giphy.com/embed/lMg0qBGvh0Hu0AMLj4">
+          <img src="[https://giphy.com/embed/lMg0qBGvh0Hu0AMLj4](https://media1.giphy.com/media/lMg0qBGvh0Hu0AMLj4/giphy.gif?cid=790b7611c6129cad063b7a773cd9411c68772f4bdc5e2f7c&rid=giphy.gif&ct=g)">
         </div>
         <li>
           <b>Name:</b> Niclas :3
