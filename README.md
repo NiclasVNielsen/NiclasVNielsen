@@ -22,7 +22,7 @@
           <b>Occupation:</b> Bachelor in Web Development🤓
         </li>
         <li>
-          <b>Hobbys:</b> Video/Board Games🕹️, Playing Guitar🎸, Being a Pirate🦜
+          <b>Hobbys:</b> Board/Video Games🕹️, Playing Guitar🎸, Being a Pirate🦜
         </li>
         <li>
           <b>Loves:</b> Heavy Metal🤘, Yu-Gi-Oh!🃏, Bunnies🐇
