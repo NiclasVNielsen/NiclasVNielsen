@@ -2,12 +2,9 @@
   <center>
     <div>
       <h1 align="center">
-        Ahoy Lad/Lass! 🏴‍☠️
-      </h1>
-      <h3 align="center">
+        Ahoy Lad/Lass! 🏴‍☠️ <br>
         Welcome aboard deck!
       </h3>
-      <hr>
       <div>
         <h2 align="center">
           Who is this weirdo?
