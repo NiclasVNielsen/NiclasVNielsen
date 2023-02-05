@@ -6,6 +6,9 @@
         <font size="2">Welcome aboard deck!</font>
       </h3>
       <br>
+      <p>
+        Add short bio here!
+      </p>
       <div>
         <h2 align="center">
           Who is this weirdo?
