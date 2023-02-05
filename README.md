@@ -7,6 +7,7 @@
       <h3 align="center">
         Welcome aboard deck!
       </h3>
+      <hr>
       <div>
         <h2 align="center">
           Who is this weirdo?
