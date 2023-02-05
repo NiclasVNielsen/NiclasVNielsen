@@ -16,8 +16,6 @@
         <br>
         <br>
         <br>
-        <br>
-        <br>
         <li>
           <b>Name:</b> Niclas :3
         </li>
@@ -33,8 +31,6 @@
         <li>
           <b>Loves:</b> Heavy Metal🤘, Yu-Gi-Oh!🃏, Bunnies🐇
         </li>
-        <br>
-        <br>
         <br>
         <br>
         <br>
