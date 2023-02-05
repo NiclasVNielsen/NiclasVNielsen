@@ -4,6 +4,9 @@
       <h1 align="center">
         Ahoy Lad/Lass! 🏴‍☠️
       </h1>
+      <p align="center">
+        Welcome aboard deck!
+      </p>
       <br>
       <div>
         <h2 align="center">
