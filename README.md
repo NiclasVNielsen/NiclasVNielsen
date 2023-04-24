@@ -2,7 +2,7 @@
   <center>
     <div>
       <h1 align="center">
-        Ahoy Lad/Lass! 🏴‍☠️ <br>
+        Ahoy Scallywaggy! 🏴‍☠️ <br>
         <font size="2">Welcome aboard deck!</font>
       </h3>
       <div>
@@ -29,7 +29,7 @@
           <b>Hobbys:</b> Board/Video Games🕹️, Playing Guitar🎸, Being a Pirate🦜
         </li>
         <li>
-          <b>Loves:</b> Heavy Metal🤘, Yu-Gi-Oh!🃏, Bunnies🐇
+          <b>Obsessions:</b> Heavy Metal🤘, Yu-Gi-Oh!🃏, Bunnies🐇
         </li>
         <br>
         <br>
