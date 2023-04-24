@@ -3,7 +3,7 @@
     <div>
       <h1 align="center">
         Ahoy Scallywaggy! 🏴‍☠️ <br>
-        <font size="2">Welcome aboard deck!</font>
+        <font size="2">And Welcome Aboard Deck!</font>
       </h3>
       <div>
         <h2 align="center">
