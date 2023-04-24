@@ -69,6 +69,7 @@
         <br>
         <p><b>I would love to get better at</b></p>
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=C+Sharp&color=239120&logo=C+Sharp&logoColor=FFFFFF&label="/>
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label="/>
         <br><br>
         <br>
         <h2 align="center">
