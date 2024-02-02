@@ -20,16 +20,13 @@
           <b>Name:</b> Niclas :3
         </li>
         <li>
-          <b>Gender:</b> Male ♂️
-        </li>
-        <li>
-          <b>Occupation:</b> Bachelor in Web Development🤓
+          <b>Occupation:</b> Searching for a job!
         </li>
         <li>
           <b>Hobbys:</b> Board/Video Games🕹️, Playing Guitar🎸, Being a Pirate🦜
         </li>
         <li>
-          <b>Obsessions:</b> Heavy Metal🤘, Yu-Gi-Oh!🃏, Bunnies🐇
+          <b>Obsessions:</b> Heavy Metal🤘, Card Games🃏, Bunnies🐇
         </li>
         <br>
         <br>
