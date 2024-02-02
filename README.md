@@ -23,7 +23,7 @@
           <b>Occupation:</b> Searching for a job!
         </li>
         <li>
-          <b>Hobbys:</b> Board/Video Games🕹️, Playing Guitar🎸, Being a Pirate🦜
+          <b>Hobbys:</b> Video Games🕹️, Playing Guitar🎸, Being a Pirate🦜
         </li>
         <li>
           <b>Obsessions:</b> Heavy Metal🤘, Card Games🃏, Bunnies🐇
