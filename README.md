@@ -23,10 +23,10 @@
           <b>Occupation:</b> Searching for a job!
         </li>
         <li>
-          <b>Hobbys:</b> Video Games🕹️, Playing Guitar🎸, Being a Pirate🦜
+          <b>Hobbys:</b> Video Games🕹️, Playing Guitar🎸
         </li>
         <li>
-          <b>Obsessions:</b> Heavy Metal🤘, Card Games🃏, Bunnies🐇
+          <b>Obsessions:</b> Metal🤘, Pirates🦜, Bunnies🐇
         </li>
         <br>
         <br>
